@@ -1,7 +1,7 @@
 body {
   background-color: #fff;
   background-image: url("https://i.imgur.com/h0mg1VI.png");
-  background-size: 100% auto
+  background-size: 100vw 100vh;
 }
 
 .love {
